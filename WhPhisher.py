@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
-# Herramienta  : WhPhisher
-# Author       : W
+# Tool  : WhPhisher
+# Author       : Sagexdd
 """
 
 {
@@ -57,7 +57,7 @@ logo=f'''
 {bpurple}     \ V  V / | | | |  __/| | | | \__ \ | | |  __/ |
 {bcyan  }      \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|  {bred}v.2.5
 
-{byellow}----> {bcyan}By {bwhite}Uvedoble {bcyan}Github {bwhite}WhBeatZ {byellow}<-----
+{byellow}----> {bcyan}By {bwhite}Uvedoble {bcyan}Github {bwhite}Sagexdd {byellow}<-----
 
 {white}- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 

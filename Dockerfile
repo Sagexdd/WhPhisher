@@ -1,21 +1,21 @@
 # Dockerfile
 
-# Autor        : WhBeatZ
-# Github       : https://github.com/WhBeatZ
+# Author        : Sagexdd
+# Github       : https://github.com/Sagexdd
 # Date         : 23/12/2021
-# Lenguaje     : Python
+# Language     : Python
 
 
-# Sistemas operativos :)
+# Operating systems  :)
 Termux
 Kali Linux
 Debian 11.3
 # Package
 Python3
 
-# Informacion de Autor :)
-Desarroyando mas herramientas :)
+# Information by Author :)
+Developing more tools  :)
 
-# Comando unico
+# Single command 
 python3 WhPhisher.py
 

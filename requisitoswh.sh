@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Programado por WhBeatZ
-#Mi Github --> WhBeatZ - https://github.com/WhBeatZ
+#Mi Github --> WhBeatZ - https://github.com/Sagexdd
 #Fecha 24/01/2022
 #If you're going to use my code as a template, mention me :D.
 
